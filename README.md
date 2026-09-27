@@ -9,4 +9,5 @@ Welcome to my certifications repository. This space contains verified certificat
 ### 1. Python Programming Language 
 * **Instructor/Issuer:** Sadık Turan 
 * **Topics Covered:** Python fundamentals, object-oriented programming (OOP), data structures, and automation.
-* **Certificate:** [View Certificate]([Python_Programlama_Dili_Sertifika.pdf](https://github.com/user-attachments/files/32702064/Python_Programlama_Dili_Sertifika.pdf))
+* **Certificate:** [View Certificate]([Python_Programlama_Dili_Sertifika.pdf](https://github.com/user-attachments/files/32702072/Python_Programlama_Dili_Sertifika.pdf)
+)
